@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: b50fc82fc817ead4c9605df14124b3c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7523828642511863639
+    second: pjIanCelu_0
+  - first:
+      213: -8935770750982044271
+    second: pjIanCelu_1
+  - first:
+      213: -4557064071023882648
+    second: pjIanCelu_2
+  - first:
+      213: 1721766156479435316
+    second: pjIanCelu_3
+  - first:
+      213: 2911927182836265585
+    second: pjIanCelu_4
+  - first:
+      213: 1406327348778489747
+    second: pjIanCelu_5
+  - first:
+      213: -9010674978370761800
+    second: pjIanCelu_6
+  - first:
+      213: -6125989581230994229
+    second: pjIanCelu_7
+  - first:
+      213: -6063784348959596385
+    second: pjIanCelu_8
+  - first:
+      213: 7009805481053338948
+    second: pjIanCelu_9
+  - first:
+      213: -7218242560024501155
+    second: pjIanCelu_10
+  - first:
+      213: 3024880251967274821
+    second: pjIanCelu_11
+  - first:
+      213: -8565836080207229678
+    second: pjIanCelu_12
+  - first:
+      213: 7997968290961308660
+    second: pjIanCelu_13
+  - first:
+      213: 1502497271435681293
+    second: pjIanCelu_14
+  - first:
+      213: 80528310741502124
+    second: pjIanCelu_15
+  - first:
+      213: 8030588890875951737
+    second: pjIanCelu_16
+  - first:
+      213: 1995219594705059298
+    second: pjIanCelu_17
+  - first:
+      213: -2926630055878234594
+    second: pjIanCelu_18
+  - first:
+      213: -166543544131569365
+    second: pjIanCelu_19
+  - first:
+      213: -5677387584019051233
+    second: pjIanCelu_20
+  - first:
+      213: 6414955931160915113
+    second: pjIanCelu_21
+  - first:
+      213: -4121005507700560788
+    second: pjIanCelu_22
+  - first:
+      213: -986540484061871887
+    second: pjIanCelu_23
+  - first:
+      213: -8645798308741611732
+    second: pjIanCelu_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pjIanCelu_0
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2056
+        width: 154
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008eeee3694c9314d83975f057f7e858
+      internalID: -7523828642511863639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1739
+        width: 154
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4306bd6d01edf1439bdc10e92517362
+      internalID: -8935770750982044271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1408
+        width: 149
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18055b5263e564eb8bdfa1a657d6b0
+      internalID: 1721766156479435316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1396
+        width: 149
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704008c148ae7af4dbc37e9470cf84db
+      internalID: 2911927182836265585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1404
+        width: 149
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75c4052ba80154787dafeb48a9c5ae
+      internalID: 1406327348778489747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1400
+        width: 154
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14fde30d393ac459c8053fe5617826
+      internalID: -9010674978370761800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1407
+        width: 155
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66993d49ebe050844909789cf5f23d3e
+      internalID: -6125989581230994229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_8
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1398
+        width: 155
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e826d8f69e7c42815cc617ea01acb
+      internalID: -6063784348959596385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1410
+        width: 154
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e4e026e5b08e449905532fc0338dc
+      internalID: 7009805481053338948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1036
+        width: 159
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9545375baddf884885e603a53d02ae4
+      internalID: -7218242560024501155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1040
+        width: 159
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86de26e55b9008b4aa8d8a78fde2b1c8
+      internalID: 3024880251967274821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1042
+        width: 157
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a2a2943e1120f429bfad75e40eb83d
+      internalID: -8565836080207229678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1040
+        width: 159
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a89827f03493a46acc139e99d7f199
+      internalID: 7997968290961308660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_14
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1038
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d44abd867a51043a2903aa8a7418d4
+      internalID: 1502497271435681293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_15
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1036
+        width: 159
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbca7c4e85994a4a84e72fabc31fb93
+      internalID: 80528310741502124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 669
+        width: 150
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb3df8923ce874aac6509352889ece
+      internalID: 8030588890875951737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 672
+        width: 148
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1058b8d1659b69e41be9ebf54eef2fbe
+      internalID: 1995219594705059298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 670
+        width: 148
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be6e1291f74a5d439bcd13d30c70eb7
+      internalID: -2926630055878234594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 682
+        width: 154
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d5ecd428993b4a86b7cdfa354cce5
+      internalID: -166543544131569365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 670
+        width: 148
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73948f1ef174c6241809db4db16626b4
+      internalID: -5677387584019051233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 672
+        width: 148
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b812577c86944490ba99f9f272abe
+      internalID: 6414955931160915113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_22
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 668
+        width: 150
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383dadfbabfe4d41b91ebf6f3f99ecd
+      internalID: -4121005507700560788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 357
+        width: 154
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0113d29933b0345be0eb20ef3d3a3e
+      internalID: -986540484061871887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjIanCelu_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 53
+        width: 154
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b579b7cb7b3f4f9b1e004884a2db6
+      internalID: -8645798308741611732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8be2803728cb8304c84dadc3d6b0130d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

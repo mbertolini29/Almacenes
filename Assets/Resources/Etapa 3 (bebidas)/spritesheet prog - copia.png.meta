@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 08b47e236324974489a3bbd2e2209977
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2619874054789930233
+    second: spritesheet prog - copia_0
+  - first:
+      213: -2691000067699307413
+    second: spritesheet prog - copia_1
+  - first:
+      213: 6693879403893899351
+    second: spritesheet prog - copia_2
+  - first:
+      213: -3851319435973430664
+    second: spritesheet prog - copia_3
+  - first:
+      213: -1749210171267595604
+    second: spritesheet prog - copia_4
+  - first:
+      213: -7957718833403386154
+    second: spritesheet prog - copia_5
+  - first:
+      213: -2875034453098467564
+    second: spritesheet prog - copia_6
+  - first:
+      213: 5616220462053896354
+    second: spritesheet prog - copia_7
+  - first:
+      213: -1215305759941893376
+    second: spritesheet prog - copia_8
+  - first:
+      213: -9204081744054492987
+    second: spritesheet prog - copia_9
+  - first:
+      213: -297012279590634863
+    second: spritesheet prog - copia_10
+  - first:
+      213: 6475755967173158035
+    second: spritesheet prog - copia_11
+  - first:
+      213: 2995022583071692729
+    second: spritesheet prog - copia_12
+  - first:
+      213: 8727565390008421815
+    second: spritesheet prog - copia_13
+  - first:
+      213: 4730950588239050985
+    second: spritesheet prog - copia_14
+  - first:
+      213: 3019857549862145100
+    second: spritesheet prog - copia_15
+  - first:
+      213: -8777796903239378768
+    second: spritesheet prog - copia_16
+  - first:
+      213: 7698954035352749379
+    second: spritesheet prog - copia_17
+  - first:
+      213: 22175191045572600
+    second: spritesheet prog - copia_18
+  - first:
+      213: 148311481026018065
+    second: spritesheet prog - copia_19
+  - first:
+      213: -1211916232327502733
+    second: spritesheet prog - copia_20
+  - first:
+      213: -474699134665724905
+    second: spritesheet prog - copia_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet prog - copia_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 1156
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc14087299ab5420800000000000000
+      internalID: 2619874054789930233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_1
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 815
+        width: 495
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0b3a22b5a7aad0800000000000000
+      internalID: -2691000067699307413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_2
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 633
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75046662adf65ec50800000000000000
+      internalID: 6693879403893899351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 537
+        width: 373
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872fe3ec06d5d8ac0800000000000000
+      internalID: -3851319435973430664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 535
+        width: 183
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca24810fd9e89b7e0800000000000000
+      internalID: -1749210171267595604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 423
+        width: 118
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62e8002e0809190800000000000000
+      internalID: -7957718833403386154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 496
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6e02c563d918d0800000000000000
+      internalID: -2875034453098467564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_7
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 442
+        width: 118
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b00511c2d0fd40800000000000000
+      internalID: 5616220462053896354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 216
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036d2da9dd522fe0800000000000000
+      internalID: -1215305759941893376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 222
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c069f94b68844080800000000000000
+      internalID: -9204081744054492987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 222
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3215c7ecc0ebf0800000000000000
+      internalID: -297012279590634863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 214
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e87bfdb18ed950800000000000000
+      internalID: 6475755967173158035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 211
+        width: 42
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7d246cb25709920800000000000000
+      internalID: 2995022583071692729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_13
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 307
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd02794b7a8e1970800000000000000
+      internalID: 8727565390008421815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_14
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 282
+        width: 507
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8f9ed8e76b7a140800000000000000
+      internalID: 4730950588239050985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 43
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c80d31170b8e920800000000000000
+      internalID: 3019857549862145100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b894e729300f2680800000000000000
+      internalID: -8777796903239378768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 45
+        width: 41
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c24387ed28da60800000000000000
+      internalID: 7698954035352749379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 45
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f709110838ce4000800000000000000
+      internalID: 22175191045572600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 44
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfaa69188ee0200800000000000000
+      internalID: 148311481026018065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_20
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 44
+        width: 85
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e6929b986e2fe0800000000000000
+      internalID: -1211916232327502733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet prog - copia_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 28
+        width: 1119
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c601fe6a78969f0800000000000000
+      internalID: -474699134665724905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bug
+  - +90
+  - -90
+  - Train
+  - Death
+  - Win
+  - Nexus
+  - Vagon
+  - Caja
+  - BugSound
+  - FlameSound
+  - brian
+  - Floor
+  - cinto
+  - jarronNaranja
+  - copaFina
+  - jean
+  - vaso
+  - cabeza
+  - zapatosVerdes
+  - jarronRosa
+  - camisaRosada
+  - CuadroMini1
+  - CuadroMini2
+  - CuadroMini3
+  - CuadroMini4
+  - Interactuable
+  - pared
+  - personaje
+  - cuadro1
+  - cuadro2
+  - cuadro3
+  - cuadro4
+  - ripamonti
+  - tutorial
+  - lehmann
+  - intententee
+  - intentented
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Map
+  - Mercaderia
+  - MainUI
+  - Cajas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MainUI
+    uniqueID: 3341359323
+    locked: 0
+  - name: UI
+    uniqueID: 3949778503
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1577279371
+    locked: 0
+  - name: ObjetosFijos
+    uniqueID: 1345746357
+    locked: 0
+  - name: Personaje
+    uniqueID: 1854260101
+    locked: 0
+  - name: FondoAdelante
+    uniqueID: 1196090459
+    locked: 0
+  - name: ObjetosMovimiento
+    uniqueID: 1462588681
+    locked: 0

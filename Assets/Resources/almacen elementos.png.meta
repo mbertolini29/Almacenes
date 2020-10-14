@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 1655dfc0c9e174344b06e9f5b9e1633f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1619814021676940553
+    second: PuntoEconomico0
+  - first:
+      213: -1709252620877166561
+    second: BotonEntrega
+  - first:
+      213: 8439504810895644454
+    second: Florero
+  - first:
+      213: -1487981853059332361
+    second: Cuchillo
+  - first:
+      213: 6930830053340116367
+    second: PuntoEconomico1
+  - first:
+      213: 6127455592005906651
+    second: Tenedor
+  - first:
+      213: -8257235774820741518
+    second: PuntoEconomico2
+  - first:
+      213: -3069579932521931564
+    second: BotonPausa
+  - first:
+      213: -3619974422150964270
+    second: PuntoEconomico3
+  - first:
+      213: 3782857111675917828
+    second: VasoAgua
+  - first:
+      213: -9155605886610277126
+    second: Herramienta
+  - first:
+      213: 8885274568952175098
+    second: Remera
+  - first:
+      213: -3415566632194044234
+    second: PuntoEconomico4
+  - first:
+      213: 1944973424581546129
+    second: Globo
+  - first:
+      213: 7278610032111060795
+    second: BarraObjetos
+  - first:
+      213: 7616099797370225444
+    second: Cesto
+  - first:
+      213: -573846735343798592
+    second: PuntoEconomico5
+  - first:
+      213: -8959057141285436817
+    second: Dinero
+  - first:
+      213: 7321614377086532017
+    second: Interfaz2
+  - first:
+      213: 8095375659411354422
+    second: Interfaz1
+  - first:
+      213: -593785623647039227
+    second: Interfaz3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PuntoEconomico0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2170
+        width: 778
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1a3ed05cda6a46abd9364cac4098b
+      internalID: 1619814021676940553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonEntrega
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1945
+        width: 458
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1c8996be869546869d0e2b3ff15d5
+      internalID: -1709252620877166561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Florero
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1703
+        width: 211
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4385a4b498f2459821fbd9602809d
+      internalID: 8439504810895644454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuchillo
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1738
+        width: 64
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7d6bedd370f3499a952450f25e054
+      internalID: -1487981853059332361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntoEconomico1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1895
+        width: 778
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe12cade6fc01c46ac37271bc5f0a4f
+      internalID: 6930830053340116367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tenedor
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1724
+        width: 130
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee058eae6553245952c8506bdabe83
+      internalID: 6127455592005906651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntoEconomico2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1648
+        width: 778
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ff7da07cab0b540aa265b7eb478b26
+      internalID: -8257235774820741518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonPausa
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1427
+        width: 429
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d62392f31a2a499a7d87ba7b5a23a
+      internalID: -3069579932521931564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntoEconomico3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1389
+        width: 778
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47443e8a976fda408cd1a9f7c180a64
+      internalID: -3619974422150964270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VasoAgua
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1273
+        width: 204
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1206ed3f8fb0e4d82ac7b7cba41f8e
+      internalID: 3782857111675917828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herramienta
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1292
+        width: 292
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd09026690941254689d512057f6149f
+      internalID: -9155605886610277126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remera
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1292
+        width: 351
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760300fc3e0cab4f883299d225a7692
+      internalID: 8885274568952175098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntoEconomico4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1133
+        width: 778
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36642ff6307d49f4d93b50996fd89cc6
+      internalID: -3415566632194044234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globo
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 618
+        width: 553
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7823bb16d44b02c4385627b3764248fb
+      internalID: 1944973424581546129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarraObjetos
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 846
+        width: 349
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864fddfe97c94594f9f66b5886fbfebe
+      internalID: 7278610032111060795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cesto
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 870
+        width: 270
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7f47b152eea84298a414007082e96
+      internalID: 7616099797370225444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PuntoEconomico5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 882
+        width: 778
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6088fa9d818a56b46a3deabe49db08a9
+      internalID: -573846735343798592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinero
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 547
+        width: 429
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47b34156810f542bcddef6e00f47f4
+      internalID: -8959057141285436817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz2
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1
+        width: 766
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c790de590d71454b951044424784614
+      internalID: 7321614377086532017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1755
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb6d689b933c2e45bc703b2f110807c
+      internalID: 8095375659411354422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interfaz3
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 0
+        width: 2035
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe04ead6d42ca74bb67e9b0311cc7ed
+      internalID: -593785623647039227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 282daf4d45c6af644b9894914a8a8c10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

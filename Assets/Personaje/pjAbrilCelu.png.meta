@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: d326e28cbba3c6a4c9d5cef562060493
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7390100841343204822
+    second: pjAbrilCelu_1
+  - first:
+      213: 3404855562313273989
+    second: pjAbrilCelu_3
+  - first:
+      213: -2788164034237041518
+    second: pjAbrilCelu_4
+  - first:
+      213: -1377230975693741399
+    second: pjAbrilCelu_6
+  - first:
+      213: -50300463581903109
+    second: pjAbrilCelu_7
+  - first:
+      213: 2603165839672032025
+    second: pjAbrilCelu_9
+  - first:
+      213: 717221999364564522
+    second: pjAbrilCelu_10
+  - first:
+      213: 7948350375135588778
+    second: pjAbrilCelu_11
+  - first:
+      213: 9177623325563580754
+    second: pjAbrilCelu_12
+  - first:
+      213: 2596822050120232940
+    second: pjAbrilCelu_13
+  - first:
+      213: 566211207944595094
+    second: pjAbrilCelu_14
+  - first:
+      213: -1020670309806760635
+    second: pjAbrilCelu_15
+  - first:
+      213: 4975725358067776615
+    second: pjAbrilCelu_17
+  - first:
+      213: -1564207510933600219
+    second: pjAbrilCelu_18
+  - first:
+      213: -4266238615558096538
+    second: pjAbrilCelu_19
+  - first:
+      213: -5329731816658679068
+    second: pjAbrilCelu_25
+  - first:
+      213: -4533357833647885015
+    second: pjAbrilCelu_26
+  - first:
+      213: -4151448679093160444
+    second: pjAbrilCelu_27
+  - first:
+      213: 7835792439423323237
+    second: pjAbrilCelu_29
+  - first:
+      213: -4290917652524759112
+    second: pjAbrilCelu_30
+  - first:
+      213: 6509200862988684675
+    second: pjAbrilCelu_31
+  - first:
+      213: 4444998054207548983
+    second: pjAbrilCelu_32
+  - first:
+      213: 3920433256450443907
+    second: pjAbrilCelu_34
+  - first:
+      213: -1700248551517711926
+    second: pjAbrilCelu_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pjAbrilCelu_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2052
+        width: 173
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c3cdbc23e83645b5046fd879826aa
+      internalID: 7390100841343204822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1741
+        width: 172
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8fbc98eaab1440af53a9a283ba25a
+      internalID: 3404855562313273989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1398
+        width: 159
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225b55473f0d0c44a901330ad2045b0
+      internalID: -2788164034237041518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1407
+        width: 156
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc952fa998283d946b5716248f66b2f3
+      internalID: -1377230975693741399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1403
+        width: 157
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22355c5d1b2fd0f408daa4f59a510b6c
+      internalID: -50300463581903109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1404
+        width: 172
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0f4230f9b4f44893ac24b2d3befed
+      internalID: 2603165839672032025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1404
+        width: 156
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ba8f0cebe0dd48af218fd72003a43
+      internalID: 717221999364564522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1399
+        width: 159
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6cdc73ab703747bdf196be067e06c
+      internalID: 7948350375135588778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_12
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1404
+        width: 159
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5c9d0a10935140960caee1bef70d7
+      internalID: 9177623325563580754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1040
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f6c03fdb41c6468a7c9ae680d1dfc
+      internalID: 2596822050120232940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1039
+        width: 165
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f018195f2eac340a641ce78529241a
+      internalID: 566211207944595094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1043
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55815a4540fd18346939d0d5465e868b
+      internalID: -1020670309806760635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1043
+        width: 175
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a1948477fc8b47a223f7944eb83ed
+      internalID: 4975725358067776615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_18
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1041
+        width: 168
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3167c34e7cf14490210da2ef0a338
+      internalID: -1564207510933600219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_19
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1040
+        width: 166
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c03dad9b830bb429e69f252469d0ba
+      internalID: -4266238615558096538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 676
+        width: 152
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42cfed1d58b8146908de510c477e02
+      internalID: -5329731816658679068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 676
+        width: 152
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59fb171dab3614b816fd079491beca
+      internalID: -4533357833647885015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 672
+        width: 152
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea00852cd3e445478a34a48691b83f8
+      internalID: -4151448679093160444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 675
+        width: 172
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62921c4d0c3074fb9b989602f9b8b5
+      internalID: 7835792439423323237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_30
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 672
+        width: 152
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aeb1c6fdcb84645910ffdddf402296
+      internalID: -4290917652524759112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_31
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 670
+        width: 152
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf647fce131124fa1373be18bcaa47
+      internalID: 6509200862988684675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 671
+        width: 153
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cc429e3a54e9647995a1783e954037
+      internalID: 4444998054207548983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_34
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 356
+        width: 172
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c2ab7cfef9bf45abbd6dd0947ffe7
+      internalID: 3920433256450443907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pjAbrilCelu_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 62
+        width: 172
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93868877fe6031543b081464fc96f8da
+      internalID: -1700248551517711926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f1c1762db3b177f4396e39c94dd903be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

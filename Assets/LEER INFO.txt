@@ -1,0 +1,12 @@
+Información importante del proyecto:
+
+
+Admin del repositorio: simonramosb
+
+Ramas:
+
+ - Master: Versiones listas para compilar [PROHIBIDO PUSHEAR COMMITS SIN AUTORIZACIÓN]
+ - Estable: Versión sin errores. 
+ - Dev: Cambios día a día de todos los programadores.
+
+
